@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../src/ProgressIsland.Core/ProgressIsland.Core.csproj" />
+    <ProjectReference Include="../../src/ProgressIsland.App/ProgressIsland.App.csproj" />
+  </ItemGroup>
+</Project>
